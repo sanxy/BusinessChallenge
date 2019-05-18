@@ -1,0 +1,290 @@
+<resources>
+    <string name="app_name">Business Challenge</string>
+    <string name="blank">No Information</string>
+    <string name="detail_error_message">Business data not available</string>
+    <string name="action_close">Dismiss</string>
+    <string name="unlock_previous">View previous day first and wait for 24hours to unlock this day</string>
+    <string name="start_challenge">Start Challenge</string>
+    <string name="settings">Settings</string>
+
+    <string-array name="business_days">
+        <item>Day 1</item>
+        <item>Day 2</item>
+        <item>Day 3</item>
+        <item>Day 4</item>
+        <item>Day 5</item>
+        <item>Day 6</item>
+        <item>Day 7</item>
+        <item>Day 8</item>
+        <item>Day 9</item>
+        <item>Day 10</item>
+        <item>Day 11</item>
+        <item>Day 12</item>
+        <item>Day 13</item>
+        <item>Day 14</item>
+        <item>Day 15</item>
+        <item>Day 16</item>
+        <item>Day 17</item>
+        <item>Day 18</item>
+        <item>Day 19</item>
+        <item>Day 20</item>
+        <item>Day 21</item>
+        <item>Day 22</item>
+        <item>Day 23</item>
+        <item>Day 24</item>
+        <item>Day 25</item>
+        <item>Day 26</item>
+        <item>Day 27</item>
+        <item>Day 28</item>
+        <item>Day 29</item>
+        <item>Day 30</item>
+    </string-array>
+
+    <string-array name="business_details">
+        <item>{\"name\":{\"mainName\":\"Day 1\"},\"description\":\"First thing’s first!
+            You don’t want to waste time trying to build something someone has already
+            tried (or succeeded) to create! Take this first day and look through the
+            filed patents. You may need some help with combing through everything.
+            There are U.S. Patent libraries in many states, but you can also search online.
+            Once you pass your preliminary search, you can hire a professional to look more
+            in-depth, depending on what you
+            find.\",\"image\":\"https://i.imgur.com/HAXxmFI.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 2\"},\"description\":\"Do you have a business plan?
+            If not, start doing some research and write up a rough draft for one today.
+            We’ll come back to it in a few days to refine
+            it.\",\"image\":\"https://i.imgur.com/wcSdJdj.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 3\"},\"description\":\"You’ll want to protect your
+        ideas for the future. Look into trademarking, copyrighting, patenting, and so forth
+        concerning your intellectual property and don’t forget to look into intellectual
+        property insurance. It may sound silly or like something you don’t need but,
+        if you don’t have that insurance and someone walks off with your idea and puts
+        their name on it, it becomes theirs solely in the eyes of the law, and
+        you may lose your
+        shirt.\",\"image\":\"https://i.imgur.com/6cdlV7L.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 4\"},\"description\":\"Decide which business format
+            is right for you. Today should focus on research into the different types of business
+            registrations. S and C corporations, Limited Liability Company (LLC), and Limited
+            Company (Ltd) are just a few examples of the different types of business formats that
+            help protect you and your assets if something ever happens with the company. There are
+            also differences in how the business and you are taxed throughout the year depending
+            on which format you chose.
+    If you don’t already have a unique name for your business, today would be a good day to
+            work on that. Don’t forget your elevator pitch! This pitch would be a 10-30 second
+            ad for your product or service that you could give to someone on an elevator ride.
+            Let your mind do most of the work today. Remember: Rome wasn’t built in a day and
+            your business won’t be
+            either!\",\"image\":\"https://i.imgur.com/6cdlV7L.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 5\"},\"description\":\"Now that you’ve looked into your
+            intellectual property being insured, and what kind of business will work best for you,
+            it wouldn’t be a bad idea to get some insurance for your actual company.
+            This insurance can include but is not limited to, inventory, any physical space you
+            do your work, vehicles used, even self and employee
+            coverage.\",\"image\":\"https://i.imgur.com/6CpJ1er.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 6\"},\"description\":\"Today you can start setting
+            up the face of your business. Do you have a logo? If not and you have the skills,
+            try creating a few today. Choose a color pallet and a mascot if one is appropriate.
+            Try writing the name of your business in different handwriting, block letters or
+            script, and working the logo into the handwritten signature. If you are not
+            artistically inclined, do a quick search for graphic designers in your area to help you
+            out.\",\"image\":\"https://i.imgur.com/6cdlV7L.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 7\"},\"description\":\"If you need some help getting
+            your product from concept to tangible, today you should find a local prototype
+            designer such as Beyond Design Inc. in Chicago or Kaleidoscope Innovation Product
+            Design And Development in Cincinnati. Once you have a physical prototype, come back
+            to the challenge and pick up here.
+If you already have a prototype or are providing a service, set up some beta testing today.
+            Get a few folks to try it out and give you their feedback. Start to identify your
+            weak points and figure out possible
+            solutions.\",\"image\":\"https://i.imgur.com/U7km7CZ.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 8\"},\"description\":\"Today you should make sure your
+            product or service is complete. It’s better to have something that is finished that
+            something perfect; changes will come along the way. Take your product through its
+            functions. Make sure that, when you get to the end, you’re where you want to be.
+If you’re providing a service, run through the entire process start to finish and make sure you
+            have everything you need for every step. Touch everything you will need. If you make
+            a mental note to get something, you may not have its opening
+            day.\",\"image\":\"https://i.imgur.com/6cdlV7L.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 9\"},\"description\":\"While you’re looking into the
+            legal side of things, make sure you don’t need any permits or licensure.
+            Even online businesses can be subject to specific licensing and regulatory practices.
+            It’s also not a bad idea to check and see if your business might qualify for a tax
+            exemption.\",\"image\":\"https://i.imgur.com/MNxGFIe.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 10\"},\"description\":\"Come back to your business plan.
+            Read through it. Do you still agree with everything? If not, make changes to it today
+            and begin to implement those changes. If everything still measures up, go through
+            it with a fine-toothed comb and make sure you’re set up to meet all of your
+            goals.\",\"image\":\"https://i.imgur.com/6cdlV7L.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 11\"},\"description\":\"If you don’t already have the
+            funds to start your new venture, look into getting a business loan and credit card.
+            Make a list of potential investors and look into crowdsourcing. Go ahead and set up
+            any online sources you
+            can.\",\"image\":\"https://i.imgur.com/vsqkaTq.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 12\"},\"description\":\"If you’ve never worked in sales,
+            take today to watch a few videos online and read a few articles about selling
+            yourself and your product or service. Practice in front of a mirror, film yourself
+            and watch it back. Have a friend help advise you. They may see something that you miss.
+            Pitch to them, practice, practice, practice! Soon it will become second
+            nature.\",\"image\":\"https://i.imgur.com/6cdlV7L.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 13\"},\"description\":\"Use today to research pitch
+            decks. These, in brief, are typically PowerPoints with 10-12 slides that you might
+            send digitally or present in person to new potential investors. There are several
+            references on do’s and don’ts out there. With a brief online search, you will find
+            one you can utilize. Once you find one you like, go ahead and work on this
+            presentation.\",\"image\":\"https://i.imgur.com/6cdlV7L.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 14\"},\"description\":\"Have a friend over to work on
+            your pitch deck today. Again, film yourself and watch it replayed. If you have a
+            large screen or a blank wall to project onto, set your camera up at an investor
+            and pitch to it. Have your partner help you find and correct the weak
+            points.\",\"image\":\"https://i.imgur.com/6cdlV7L.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 15\"},\"description\":\"If you plan on having
+            investors in your business that are not business partners, do some research today
+            on the different kinds of investors and which type might be best for you.
+            If you find something that looks promising, do a few web searches. Many investors
+            specialize in a field, and you may find someone who would be just the right fit.
+            Check out the “pitch decks” on day Piktochart before reaching
+            out.\",\"image\":\"https://i.imgur.com/6cdlV7L.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 16\"},\"description\":\"Before you launch, it is
+            crucial to have your finances straight! Make today about getting your tax ID and
+            checking on bookkeeping and accounting. If you have employees, they will need
+            to be paid promptly. If you have suppliers or shipping costs, those bills can
+            pile up quickly and sneakily. Moreover, everyone knows Uncle Sam will come after
+            you if you don’t pay the
+            piper!\",\"image\":\"https://i.imgur.com/6cdlV7L.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 17\"},\"description\":\"Write up some contracts today
+            or hire someone to do that for you. You will need an agreement between you and your
+            employees if you have any, you may need a contract between you and your
+            clients depending on what your services are, you might want to consider an agreement
+            between you and a long term supplier, and, if you have any investors,
+            you’ll want one for them,
+            too.\",\"image\":\"https://i.imgur.com/0eTLBHD.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 18\"},\"description\":\"If you have business partners,
+            take today to sit down with them and work out how you will split up the assets
+            and what will be fair for everyone. Have a blank contract where you can write in
+            the agreement or be prepared to create one today and have everyone sign
+            it.\",\"image\":\"https://i.imgur.com/6cdlV7L.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 19\"},\"description\":\"Do some research on your
+            competition today. Who are they? Are they in the same industry as you or is it a
+            similar product? What do you like about the way they do things and is there any way
+            to put a positive spin on that to benefit you? What weaknesses do you see? Do you
+            have any of the same flaws and can you correct
+            them?\",\"image\":\"https://i.imgur.com/6cdlV7L.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 20\"},\"description\":\"INVENTORY! You need to have
+            THINGS! If you are selling a product, stock up now! Make as many as you can hold;
+            make at least two of everything. If people want something and you don’t have it as
+            soon as you open, they may not come back again to check for it despite e-mails,
+            text reminders, and the like. If you are selling a service, print off some coupons
+            today. Have them on hand to either give your customers directly when performing
+            the service or sent in an e-mail after. If you have a physical storefront, get a
+            display stand and place your coupons somewhere folks can see it.
+            They may try you out if they “get a good deal” the first
+            time.\",\"image\":\"https://i.imgur.com/6cdlV7L.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 21\"},\"description\":\"One of the most sorely
+            overlooked and misused marketing tools in our society today is social media.
+            It is essential that you can connect with your public on these platforms.
+            Depending on your product you may need to utilize the top three. These are Facebook,
+            Twitter, and Instagram. Instagram is more photo heavy so if you don’t have a very
+            visual product, Twitter and Facebook are probably your best bet. Take today to set
+            up the accounts for your business with them. There are business tools on both that
+            you can familiarize yourself with as you
+            go.\",\"image\":\"https://i.imgur.com/U8qjkEn.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 22\"},\"description\":\"Picture day! You will need
+            visual aids for your pitch desk, business cards and advertising, website, storefront,
+            and social media accounts. If you enjoy taking pictures, go out and take some around
+            town. Local flavor, recognizable landmarks, and unique images from around town always
+            resonate with residents and will encourage a warm beginning to your relationship
+            with them. If you don’t take your own pictures, consider searching for a local
+            photographer who may already have some images you could buy or search for images in
+            the public domain online. Be sure you have the right to use them. If they are
+            copyrighted and the proper permission/citations aren’t given, you could wind up in
+            some hot water
+            legally.\",\"image\":\"https://i.imgur.com/6cdlV7L.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 23\"},\"description\":\"If you have the skills to
+            build your website, do that today. If you don’t have those skills,
+            use today to check out some competitors’ sites and find a couple of things you like.
+            Then find someone who has the skills you need and show them your examples. They will
+            build you a straightforward site and then you will be able to go through it with them
+            to tweak and
+            change.\",\"image\":\"https://i.imgur.com/6cdlV7L.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 24\"},\"description\":\"Content Creation Day!
+            Creating content can be “leg day” for your brain but don’t let it overwhelm you.
+            Today you will need to focus on what you want to present to your customers.
+            If you have a physical store, what is your style? Do you have a theme? Can you
+            incorporate your logo, color pallet, or business name into your décor?
+            If your store is strictly online or, if you have a website where you will sell also,
+            you need to consider the same things while additionally creating written content
+            for your site.
+Again, don’t let this overwhelm you. You likely don’t need much. Write the essential information
+            in a bulleted list and then turn your list into a short paragraph.
+            If it gets to be too much, consider hiring a freelancer.
+            They do that kind of thing for
+            fun.\",\"image\":\"https://i.imgur.com/6cdlV7L.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 25\"},\"description\":\"If you are a confident public
+            speaker, take today to write some brain teasers to help you with your pitch deck.
+            If you struggle with public speaking, get some friends together in a comfortable but
+            public place, such as a coffee shop or college commons, and give them your pitch.
+            Then, do it again. And again. The best way to become a confident public speaker,
+            which you will have to do at some point during your growth, is to practice speaking
+            to a familiar group in
+            public.\",\"image\":\"https://i.imgur.com/ZtRspU2.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 26\"},\"description\":\"Up to this point, we have
+            focused a lot on the internal workings of, and start-up aspect for, your business.
+            Now let’s look outward. What about your customers? Make a list of demographics today.
+            Who is your target audience? Where are they located? How do they get a hold of you?
+            Do you have/want/need a business phone/phone number? How about e-mail address or
+            physical address? Throughout the day, think about how you have contacted businesses
+            similar to your own and what you like the
+            best.\",\"image\":\"https://i.imgur.com/6cdlV7L.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 27\"},\"description\":\"You’re getting close to your
+            launch, now! Start thinking about marketing. Where will your services be most helpful?
+            Where would your product be most used? Would a flier be an appropriate method of
+            marketing? How about a poster or a billboard? Do you have any online ads and whom
+            would you like to show these? Do you have business cards? There are hundreds of
+            different methods of advertising. Take today to look at your demographic and potential
+            client base and think about the best way to reach
+            them.\",\"image\":\"https://i.imgur.com/6cdlV7L.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 28\"},\"description\":\"Research places that will help
+            you create advertisements and get them where you need them. If you can do this yourself,
+            take today and print off your fliers or call in your billboard. Hit the bricks on this
+            one and start getting your word out there! A handwritten launch date on your cards and
+            leaflets can add a warm, personal
+            touch.\",\"image\":\"https://i.imgur.com/6cdlV7L.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 29\"},\"description\":\"Before you open,
+            make sure you are ready for your customers. Have a pre-opening test run with a few friends
+            or partners and have them try to find weaknesses. If you can, correct these.
+            If they are simply the way things are, create an action plan for how to deal with the issue
+            when it arises, as it almost certainly
+            will\",\"image\":\"https://i.imgur.com/6cdlV7L.jpg\"}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Day 30\"},\"description\":\"Congratulations! You’ve completed the challenge and are ready to open your doors!
+            Good luck!\",\"image\":\"https://i.imgur.com/6cdlV7L.jpg\"}
+        </item>
+    </string-array>
+</resources>
