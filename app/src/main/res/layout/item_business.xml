@@ -6,12 +6,12 @@
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="4dp"
+        android:layout_marginTop="@dimen/padding_4"
         android:clickable="true"
         android:focusable="true"
         android:foreground="?android:attr/selectableItemBackground"
-        app:cardCornerRadius="0dp"
-        app:cardElevation="1dp">
+        app:cardCornerRadius="@dimen/layout_width"
+        app:cardElevation="@dimen/padding_1">
 
         <RelativeLayout
             android:layout_width="match_parent"
@@ -19,12 +19,12 @@
 
             <androidx.appcompat.widget.AppCompatImageView
                 android:id="@+id/image_business"
-                android:layout_width="60dp"
-                android:layout_height="60dp"
-                android:layout_marginStart="16dp"
-                android:layout_marginBottom="16dp"
-                android:layout_marginEnd="16dp"
-                android:layout_marginTop="16dp"
+                android:layout_width="@dimen/padding_image"
+                android:layout_height="@dimen/padding_image"
+                android:layout_marginStart="@dimen/activity_horizontal_margin"
+                android:layout_marginBottom="@dimen/activity_horizontal_margin"
+                android:layout_marginEnd="@dimen/activity_horizontal_margin"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
                 android:scaleType="centerCrop" />
 
             <TextView
@@ -32,21 +32,21 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
-                android:layout_marginStart="100dp"
-                android:layout_marginTop="25dp"
-                android:layout_marginEnd="16dp"
+                android:layout_marginStart="@dimen/padding_100"
+                android:layout_marginTop="@dimen/padding"
+                android:layout_marginEnd="@dimen/activity_horizontal_margin"
                 android:textColor="#000"
-                android:textSize="20sp"
+                android:textSize="@dimen/big_text"
                 tools:text="Day 1" />
 
             <androidx.appcompat.widget.AppCompatImageView
                 android:id="@+id/image_lock"
-                android:layout_width="40dp"
-                android:layout_height="40dp"
-                android:layout_marginStart="16dp"
-                android:layout_marginBottom="16dp"
-                android:layout_marginEnd="16dp"
-                android:layout_marginTop="25dp"
+                android:layout_width="@dimen/padding_lock"
+                android:layout_height="@dimen/padding_lock"
+                android:layout_marginStart="@dimen/activity_horizontal_margin"
+                android:layout_marginBottom="@dimen/activity_horizontal_margin"
+                android:layout_marginEnd="@dimen/activity_horizontal_margin"
+                android:layout_marginTop="@dimen/padding"
                 android:layout_alignParentEnd="true"/>
 
 

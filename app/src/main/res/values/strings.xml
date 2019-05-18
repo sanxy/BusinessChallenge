@@ -5,7 +5,6 @@
     <string name="action_close">Dismiss</string>
     <string name="unlock_previous">View previous day first and wait for 24hours to unlock this day</string>
     <string name="start_challenge">Start Challenge</string>
-    <string name="settings">Settings</string>
 
     <string-array name="business_days">
         <item>Day 1</item>
